@@ -20,4 +20,4 @@ An awesome repository of other awesome-finance repositories
 **Best in bold**
 
 ## Contributions
-Contributions welcome to add your awesome repo. Just submit a pull request
+Contributions welcome. Add your awesome repo by submitting a pull request.
